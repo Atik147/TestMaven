@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
 
 public class AnnotationsTwo {
-	//Atik
+	// I am fetching data
   @Test
   public void testOne() {
 	  System.out.println("Test one got executed");
